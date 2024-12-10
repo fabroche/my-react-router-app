@@ -1,4 +1,4 @@
-import React, { Suspense } from "react";
+import { Suspense } from "react";
 import { Routes, Route, Link } from "react-router-dom"
 import Product from "./components/Product"
 import Home from "./components/Home"
